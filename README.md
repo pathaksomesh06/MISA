@@ -4,24 +4,24 @@ MISA (macOS Intune Support Assistant) is a comprehensive tool designed to stream
 
 ## Features
 
-- **System Info**: Displays detailed information about the system.
-- **Storage Information**: Provides insights into storage usage across different categories.
-- **Installed Apps**: Lists all installed applications with their versions.
-- **Software Updates**: Manages software updates for your macOS.
-- **Device Management**: Facilitates management of devices enrolled in Intune.
-- **Check Platform SSO**: Checks the status of Single Sign-On for the platform.
-- **Security Settings**: Allows configuration of various security settings.
-- **User Accounts**: Manages user accounts on the device.
-- **Network Configuration**: Displays and manages network settings.
-- **Self-Service**: Provides self-service options for users.
-- **Remote Management**: Supports remote management capabilities.
-- **Accessibility**: Includes various accessibility options for enhanced usability.
-- **FAQs and Documentation**: Provides quick access to FAQs and documentation.
-- **About**: Displays information about the app and its developer.
+- **System Info**
+- **Storage Information**
+- **Installed Apps**
+- **Software Updates**
+- **Device Management**
+- **Check Platform SSO**
+- **Security Settings**
+- **User Accounts**
+- **Network Configuration**
+- **Self-Service**
+- **Remote Management**
+- **Accessibility**
+- **FAQs and Documentation**
+- **About**
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/your-repo/MISA/releases) page.
+1. Download the latest release from the [Releases](https://github.com/pathaksomesh06/MISA/releases) page.
 2. Open the downloaded `.pkg` file and follow the on-screen instructions to install the application.
 3. Once installed, you can find MISA in your Applications folder.
 
@@ -45,23 +45,23 @@ MISA (macOS Intune Support Assistant) is a comprehensive tool designed to stream
 
 ### Device Management
 
-- The **Device Management** section provides tools to manage devices enrolled in Intune.
+- The **Device Management** section provides detailed info on MDM profiles installed on your device.
 
 ### Check Platform SSO
 
-- In the **Check Platform SSO** section, you can verify the status of Single Sign-On for your platform.
+- In the **Check Platform SSO** section, you can verify the status of Platform Single Sign-On.
 
 ### Security Settings
 
-- The **Security Settings** section allows you to configure various security-related settings on your macOS.
+- The **Security Settings** section allows you to view the status various security-related settings on your Mac.
 
 ### User Accounts
 
-- Manage user accounts through the **User Accounts** section.
+- Displays user accounts through the **User Accounts** section.
 
 ### Network Configuration
 
-- The **Network Configuration** section provides options to view and manage network settings.
+- The **Network Configuration** section provides options to view network settings.
 
 ### Self-Service
 
@@ -85,19 +85,15 @@ MISA (macOS Intune Support Assistant) is a comprehensive tool designed to stream
 
 ## Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for more information.
+Contributions are welcome!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Support
 
-For support, please open an issue on our [GitHub Issues](https://github.com/your-repo/MISA/issues) page.
-
-## Acknowledgements
-
-Special thanks to all contributors and the open-source community for their support.
+For support, please open an issue on our [GitHub Issues](https://github.com/pathaksomesh06/MISA/issues) page.
 
 ---
 
